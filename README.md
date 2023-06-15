@@ -1,27 +1,46 @@
-Определение выбора места строительства можно разделить на два этапа:
-1. Определение капитального проекта (далее – КП), работники которого будут являться основными потребителями квартир в доходном доме.
-2. Определение места для строительства доходного дома.
-Существуют несколько способов получить информацию о новых капитальных проектах:
-– Официальные государственные источники. Многие министерства публикуют информацию о строительных проектах на своих официальных веб-сайтах. Например, на сайте Министерства экономического развития Российской Федерации в разделе «Мониторинг инвестиционных проектов, финансируемых за счет средств Фонда национального благосостояния» [1] можно найти перечень самоокупаемых инфраструктурных проектов, реализуемых юридическими лицами, в финансовые активы которых размещаются средства Фонда национального благосостояния и (или) пенсионных накоплений, находящихся в доверительном управлении государственной управляющей компании, на возвратной основе. Однако, такие источники зачастую предоставляют ограниченную или неполную информацию о проекте, а также с возможными задержками во времени, что не позволяет полноценно использовать такие ресурсы для определения необходимого КП.
-– Тендеры и конкурсы. Новые проекты часто становятся известными через тендерные процессы, где компании подают заявки на выполнение работ. Этот способ хоть и позволяет определить перспективные проекты на раннем этапе, отслеживая тендеры на разработку проектной документации, тем не менее является недостаточно удобным, по причине того, что сам факт наличия тендера является довольно косвенным признаком существования КП.
-– Пресс-релизы и новости от компаний. Компании, которые планируют новые проекты, часто анонсируют их через пресс-релизы и новостные статьи, что может быть хорошим источником информации о будущих проектах. Зачастую они содержат довольно общую информацию о проекте, если содержат вообще. Впрочем, это дает базовую информацию, обладая которой можно найти характеристики проекта в других источниках.
-– Индустриальные и экономические журналы и отчеты. Эти источники могут содержать детальную информацию о предстоящих проектах, но довольно неудобны в пользовании.
-– Специализированные базы данных и сервисы. Существуют специализированные, зачастую платные сервисы, которые собирают и анализируют информацию о строительных проектах. Примером может являться цифровая платформа «Инвестиционные проекты России и ЕАЭС» [2] (далее – ЦПИП) на которой собраны десятки тысяч проектов в сфере строительства. Удобная фильтрация проектов и их актуальность позволяет довольно удобно и быстро подобрать КП с нужными параметрами. В данном исследовании я буду пользоваться вышеуказанным порталом как основным источником информации о перспективных КП.
-– Поиск в Интернете. Наконец, иногда простой поиск в Интернете может дать информацию о предстоящих проектах, правда только в том случае если точно известно какой конкретно проект необходим, что в целом является неэффективным.
-К КП предъявляются следующие требования:
-– Стадия проекта должна быть на этапе проектирования. Проект, находящийся на этапе предпроектной проработки, имеет вероятность не быть продолженным, а проекты на более поздних стадиях не интересны по причине того, что персонал с большой долей вероятности уже обеспечен жильем.
-– Срок реализации КП должен быть не менее 4-х лет. Меньший срок реализации косвенно указывает на небольшое количество персонала, задействованного в проекте.
-– Количество вновь создаваемых рабочих мест после завершения КП должно быть не менее 500 ед. Меньшее количество может быть сформировано из местного населения, что повлияет на дальнейшую востребованность аренды/покупки квартир после завершения проекта.
-– Отсутствие рядом с местом реализации КП населенных пунктов с населением более 500 тыс. чел. Жилой фонд крупных населенных пунктов способен справиться с возросшей нагрузкой, а действующие в регионе крупные девелоперы смогут достаточно оперативно закрыть появившуюся потребность.
-Выбор подходящего проекта с использованием ЦПИП происходит следующим образом:
-– В поле «Страна» выбирается Россия.
-– В поле «Регионы РФ» выбираются необходимые для рассмотрения регионы.
-– В поле «Отрасли» выбираются «Добыча и переработка», «Машиностроение», «Металлообработка», «Химическая промышленность», «Энергетика» как отрасли с наибольшей вероятностью, попадающие под указанные выше требования.
-– В поле «Стадии» выбираются «Проектирование».
-– В поле «Инвестиции» выбираются «Крупные» и «Национальные».
-Из полученного перечня отбираются КП 
+How the philosophy of the past can help us imagine the economy of the future
 
-Когда КП определен и ясны объемы работ по проекту, а также сроки начала строительства и предполагаемый срок ввода в эксплуатацию, можно перейти к выбору площадки для строительства доходного дома. Описание алгоритма по приобретению земельного участка (далее – ЗУ) выходит за рамки данного исследования, поэтому остановимся на ключевых аспектах при выборе ЗУ:
-– Расположение в ближайшем крупнейшем населенном пункте, по возможности не далее, чем за 30 километров до площадки строительства КП.
-– Вид разрешенного использования должен иметь или иметь возможность быть замененным на код 2.1.1 «Малоэтажная многоквартирная жилая застройка» [3]. Подробнее будет описано в главе 3.
-– Размещение рядом с дорогой в сторону площадки строительства КП. ЗУ, находящийся в центре населенного пункта, будет сравнительно дороже ЗУ, находящегося в окраинных районах. КП возле населенного пункта положительно повлияет на его развитие в части сервисов, поэтому даже окраинные районы будут иметь все необходимое для жизни, при этом иметь преимущества, связанные со временем доступа к площадке строительства КП.
+Published: January 4, 2023
+
+ 
+
+The economy keeps making headlines for all the wrong reasons — stories about rising prices, supply shortages and a looming recession have been frequently making the front page these days.
+
+The current economic crisis is deepening the long-standing issue of social inequality, widening the gap between the rich and poor — a problem that was already accelerated by the Great Recession of 2008 and the economic shock brought on by the COVID-19 pandemic.
+
+The richest country in the world, the U.S., is among the most drastic examples of this trend. Today, American CEOs earn 940 per cent more than their counterparts did in 1978. A typical worker, on the other hand, only goes home with 12 per cent more money than workers from 1978 did.
+
+As a report by the Economic Policy Institute demonstrates, rising CEO pay does not reflect a change in the value of skills — it represents a shift in power. Over decades, American politics has undermined the bargaining power of workers by discouraging and obstructing self-organizing efforts, such as unionization.
+
+The growing wealth of a minority at the expense of the majority means power is concentrated in the hands of a few people, mostly men. It’s not surprising that figures such as Donald Trump, Mark Zuckerberg and Elon Musk have a disproportional impact on our communities — sometimes with devastating consequences that threaten our democratic institutions.
+
+Economics with a human face
+It’s more necessary than ever before to re-examine the fundamentals of our economic order. The search for alternative economic models, however, is made difficult by conventional thinking patterns.
+
+Many believe we are facing a stark choice between a capitalist market economy on the one hand and a socialist-planned economy on the other.
+
+Although we live in a world that defines economic models in absolutist terms, it doesn’t have to be this way. We argue that the psychological and social perspectives on economy that were developed by 19th-century philosophers such as Georg Wilhelm Friedrich Hegel, John Stuart Mill and Georg Simmel can help us re-imagine economics with a human face.
+
+These thinkers were convinced that a good economic order had to incorporate elements of classic capitalism (such as a free market in goods and services) with elements of classic socialism (such as collective ownership of the means of production). This is what we call economic pluralism.
+
+Hegel and the problem of affluence
+Hegel is a good example of an economic pluralist thinker. In his 1820 Philosophy of Right, he presented an extensive reflection on the modern economy. He discussed the market and its operating principles, social inequality and even the formation of desires through advertisements and consumer culture.
+
+Among the many topics he examined was the problem of affluence. Hegel was not just worried about the poverty created by the modern market economy, but also about the concentration of extreme wealth in few hands.
+
+Writing hundreds of years before modern multi-billionaires arrived on the scene, Hegel already argued that “both of these sides, poverty and affluence, represent the scourge (Verderben) of Civil Society.”
+
+Hegel’s analysis is even more prescient: He believed affluence created the counter-intuitive tendency among the affluent to feel victimized and disenfranchized by society. As a result, the affluent perceived all social demands, like taxes, as unjustified incursions into their personal freedom.
+
+Hegel thought this sense of victimization could lead to an unexpected bond between those at the very top of the economic pyramid and those at the bottom — a bond that overcame differences in lifestyle and mutual antipathy to form an alliance that attacks civil society from both sides. The phenomenon of Trump’s MAGA alliance is an interesting modern example of this.
+
+Re-imagining the economy
+Unlike some later socialists, Hegel did not think problems of affluence were best rectified by introducing a planned economy that enforces wealth equality. Instead, his approach was pluralistic.
+
+He made a case for a free market exchange paired with co-operative modes of production, which are — in some respects — similar to modern-day worker co-operatives.
+
+If most economic production in society was organized co-operatively, Hegel believed, wealthier subjects would be embedded in economic decision-making with others, replacing the detrimental “bond of victimization” between the rich and poor with a collective identity based on shared economic agency.
+
+When reimagining our current economic order, we can take a page out of Hegel’s handbook by focusing on worker co-operatives: economic ventures that are co-owned by workers that make productive decisions together, often — albeit not always — in a democratic manner.
+
+Under what conditions are such co-operative modes of production successful? How can the state incentivize these forms of production within the existing market economy? And are these worker co-operatives really a way to achieve economic justice? These are the questions that, inspired by the past, might help us imagine a new, pluralist, more equal and human-centric economic future.
